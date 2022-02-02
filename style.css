@@ -1,5 +1,6 @@
 .txt-imp {
     font-size: 1.5em !important;
+    margin: 0 15px 0 15px;
 }
 
 .citation {
@@ -754,6 +755,9 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .portfolio-row {
