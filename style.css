@@ -1,3 +1,16 @@
+.txt-imp {
+    font-size: 1.5em;
+}
+
+.citation {
+    font-style: italic;
+}
+
+
+
+
+
+
 body {
     margin: 0;
     padding: 0;
@@ -775,7 +788,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    /*color: #F3976C!important;*/
+    color: white !important;
 }
 
 .btn-atomic-tangerine {
