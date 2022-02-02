@@ -1,9 +1,9 @@
 .txt-imp {
-    font-size: 1.5em;
+    font-size: 1.5em !important;
 }
 
 .citation {
-    font-style: italic;
+    font-style: italic !important;
 }
 
 
@@ -836,7 +836,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
